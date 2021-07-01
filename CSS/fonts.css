@@ -1,0 +1,25 @@
+@font-face {
+    font-family: ofont1;
+    src: url(fonts\font1.woff2);
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: font2;
+    src: url(fonts\60be5c39-863e-40cb-9434-6ebafb62ab2b.woff);
+    font-weight: bold;
+}
+
+
+/*   
+  @font-face {
+    font-family: unnamed;
+    src: url(../fonts/unnamed-normal.woff2);
+    font-weight: normal;
+  }
+  
+  @font-face {
+    font-family: unnamed;
+    src: url(../fonts/unnamed-bold.woff2);
+    font-weight: bold;
+  } */
